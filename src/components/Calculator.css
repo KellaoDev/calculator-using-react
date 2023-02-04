@@ -1,0 +1,45 @@
+body {
+    background-color: #ADD8E6;
+}
+
+button {
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 2em;
+    margin: 0.3em;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.wrapper {
+    background-color: black;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.elements-right-orange {
+    color: white;
+    background-color: #FF9500;
+}
+
+.elements-gray {
+    color: white;
+    background-color: #505050;
+}
+
+#add {
+    width: 6.4em;
+    height: 2.85em;
+}
+
+.result {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 1em;
+    font-size: 3em;
+    color: white;
+}
